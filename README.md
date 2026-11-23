@@ -1,2 +1,4 @@
-# PART
-Protein Architecture and Refinement Toolkit. AI-Native Protein Design &amp; Enzyme Optimization Framework
+# PART (Protein Architecture and Refinement Tools)
+AI-native Protein Design and Enzyme Optimization Framework
+
+
